@@ -1,4 +1,4 @@
-# 知十ACG
+# ZhiShiACG
 
 This site is built with [Hexo](https://hexo.io/), the live version can be viewed at
 [here](https://sharonlucong.github.io/acgKnowledge/)
