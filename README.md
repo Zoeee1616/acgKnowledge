@@ -4,7 +4,7 @@ This site is built with [Hexo](https://hexo.io/), the live version can be viewed
 [here](https://sharonlucong.github.io/acgKnowledge/)
 
 ### Description
-The site is written in Chinese. The objective of this site is to grab knowledge from ACG works, and expand that knowledge with references and in each blog post. 
+The site is written in Chinese. The objective of this site is to grab knowledge from ACG works, and expand that knowledge with references in each blog post. 
 
 ### Installation
 - run `npm install` to install dependencies
