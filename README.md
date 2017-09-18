@@ -1,10 +1,10 @@
-# acgKnowledge
+# 知十ACG
 
 This site is built with [Hexo](https://hexo.io/), the live version can be viewed at
 [here](https://sharonlucong.github.io/acgKnowledge/)
 
 ### Description
-意在总结科普ACG中涉猎的各种知识，正所谓：`宅们不出门，便知天下事`
+The site is written in Chinese. The objective of this site is to grab knowledge from ACG works, and expand that knowledge with references and in each blog post. 
 
 ### Installation
 - run `npm install` to install dependencies
